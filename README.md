@@ -1,4 +1,4 @@
-# Windows-Registry-Forensics-Investigating-User-Activity-System-Evidence
+# Windows Registry Analysis: Investigating User Activity System Evidence
 
 ![Forensics Project](https://img.shields.io/badge/Project-Digital%20Forensics-blue)
 ![Focus](https://img.shields.io/badge/Focus-Windows%20Registry-red)
