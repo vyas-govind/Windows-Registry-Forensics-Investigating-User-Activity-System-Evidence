@@ -54,18 +54,6 @@ The investigation demonstrates structured DFIR methodology, artifact interpretat
 
 ---
 
-## Skills Demonstrated
-
-* Windows Registry forensic analysis
-* Digital evidence interpretation
-* Timeline reconstruction
-* Artifact correlation
-* DFIR workflow application
-* Investigative reasoning
-* Forensic documentation
-
----
-
 ## Disclaimer
 
 This investigation was conducted in a controlled lab environment strictly for educational and research purposes.
