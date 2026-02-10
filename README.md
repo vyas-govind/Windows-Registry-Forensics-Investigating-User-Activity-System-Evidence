@@ -68,6 +68,6 @@ The investigation demonstrates structured DFIR methodology, artifact interpretat
 
 ## Disclaimer
 
-This investigation was conducted in a controlled lab environment strictly for educational and research purposes. No real-world systems or personal data were involved.
+This investigation was conducted in a controlled lab environment strictly for educational and research purposes.
 
 ---
